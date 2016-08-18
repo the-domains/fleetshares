@@ -6,9 +6,9 @@ color:
   saturation: 0.22161538037471473
   rhythmicContrast: 0.7075977306813002
   brandColors:
-    - '#8ECCFF'
-    - '#131418'
-    - '#4C94BC'
-    - '#FFFFFF'
-    - '#B3CA22'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: FleetShares
