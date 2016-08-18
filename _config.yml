@@ -1,0 +1,14 @@
+layout_spectrum: 0.15991135081276298
+typography_spectrum: 0.04828489408828318
+color:
+  brandStrength: 0.5109172752127051
+  lightness: 0.7212036522105336
+  saturation: 0.22161538037471473
+  rhythmicContrast: 0.7075977306813002
+  brandColors:
+    - '#8ECCFF'
+    - '#131418'
+    - '#4C94BC'
+    - '#FFFFFF'
+    - '#B3CA22'
+name: FleetShares
